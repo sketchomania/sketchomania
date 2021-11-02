@@ -1,7 +1,7 @@
 ####                Hi 👋, I'm Vaibhav Kushwaha
 
-- 🌱 I’m currently learning javascript
-- 🔭 exlporing WebDev...
+- 🌱 I’m currently learning react
+- 🔭 Exlporing Web Development
 <!--
 **sketchomania/sketchomania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
