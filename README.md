@@ -1,7 +1,15 @@
 ####                Hi 👋, I'm Vaibhav Kushwaha
 
 - 🌱 I’m currently learning react
-- 🔭 Exlporing Web Development
+- 🔭 I’m currently working on personal project
+- 🔭 Exlporing Web Dev
+
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/kush__vaibhav)
+
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sketchomania&show_icons=true&theme=radical)](https://github.com/sketchomania)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sketchomania&label=Profile%20views&color=0e75b6&style=flat" alt="sketchomania" /> </p>
 <!--
 **sketchomania/sketchomania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
