@@ -9,8 +9,8 @@
 
 [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sketchomania&show_icons=true&theme=radical)](https://github.com/sketchomania)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sketchomania&label=Profile%20views&color=0e75b6&style=flat" alt="sketchomania" /> </p>
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sketchomania&label=Profile%20views&color=0e75b6&style=flat" alt="sketchomania" /> </p>
 **sketchomania/sketchomania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
