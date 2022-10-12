@@ -1,26 +1,23 @@
-####                Hi 👋, I'm Vaibhav Kushwaha
+## 👋, I'm Vaibhav Kushwaha
 
-- 🌱 I’m currently learning react
+<h3 align="center">Avid Learner 🧑‍💻 || Programmer 🐞 || Artist 🎨</h3>
+
+- 📱 Exlporing Mobile Development
+- 🌱 I’m currently learning React Native
+- 🧑‍💻 Learning as React Native Developer Intern
 - 🔭 I’m currently working on personal project
-- 🔭 Exlporing Web Dev
+- ✨ Fun fact: love pets
+- 📫 How to reach me: **vaibhavvast@gmail.com**
 
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/kush__vaibhav)
+<div style="display: flex; flex-direction: column; align-items: center; 
+justify-content: center; flex-wrap: wrap">
 
 [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sketchomania&show_icons=true&theme=radical)](https://github.com/sketchomania)
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sketchomania&label=Profile%20views&color=0e75b6&style=flat" alt="sketchomania" /> </p>
-**sketchomania/sketchomania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=03CFFC)](https://twitter.com/kush__vaibhav)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sketchomania&langs_count=6&layout=compact&theme=radical)](https://github.com/sketchomania)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://komarev.com/ghpvc/?username=sketchomania&label=Profile%20views&color=03CFFC&style=flat)](https://github.com/sketchomania)
+
+</div>
