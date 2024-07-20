@@ -3,8 +3,8 @@
 <h3 align="center">Avid Learner 🧑‍💻 || Programmer 🐞 || Artist 🎨</h3>
 
 - 📱 Hybrid App Development
-- 🌱 I’m currently learning React Native
-- 🧑‍💻 Learning as React Native Developer Intern
+- 🌱 I’m currently learning React Native 
+- 🧑‍💻 Working as software developer at monk_commerce
 - 🔭 I’m currently working on personal project
 - ✨ Fun fact: love pets
 - 📫 How to reach me: **vaibhavvast@gmail.com**
