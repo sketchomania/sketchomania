@@ -1,33 +1,21 @@
-## 👋, I'm Vaibhav Kushwaha
+# Hi, I'm Vaibhav Kushwaha
 
-<h3 align="center">Avid Learner 🧑‍💻 || Programmer 🐞 || Artist 🎨</h3>
+Software Developer with 3+ years of experience building backend systems in Go and TypeScript.
 
-- 📱 Hybrid App Development
-- 🌱 I’m currently learning React Native 
-- 🧑‍💻 Working as software developer at monk_commerce
-- 🔭 I’m currently working on personal project
-- ✨ Fun fact: love pets
-- 📫 How to reach me: **vaibhavvast@gmail.com**
+## What I work on
 
-<br>
-<p align="center">
-  <a href="https://github.com/sketchomania">
-    <img src="https://github-readme-stats.vercel.app/api?username=sketchomania&show_icons=true&theme=radical" >
-  </a>
-</p>
+- REST and GraphQL APIs
+- Webhooks and background processing
+- Caching and multi-tenant SaaS systems
+- Production debugging, testing, and code review
+- System design and reliable software delivery
 
-[![](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=03CFFC)](https://twitter.com/kush__vaibhav)
+## Current focus
 
-<p align="center">
-  <a href="https://github.com/sketchomania">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sketchomania&langs_count=6&layout=compact&theme=radical" >
-  </a>
-</p>
+Deepening my skills in Go, Rust, distributed systems, payments, and system design.
 
-[![](https://komarev.com/ghpvc/?username=sketchomania&label=Profile%20views&color=03CFFC&style=flat)](https://github.com/sketchomania)
+## Links
 
-<p align="center">
-  <a href="https://github.com/sketchomania">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sketchomania&theme=radical" >
-  </a>
-</p>
+- [Portfolio](https://vaibhav-kushwaha.vercel.app/)
+- [LinkedIn](https://linkedin.com/in/vaibhav-kushwaha)
+- [Email](mailto:vaibhavvast6529@gmail.com)
